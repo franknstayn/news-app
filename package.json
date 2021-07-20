@@ -12,7 +12,7 @@
     "native-base": "^2.13.8",
     "react": "16.8.6",
     "react-moment": "^0.9.2",
-    "react-native": "0.60.5",
+    "react-native": "0.62.3",
     "react-native-webview": "^7.4.0"
   },
   "devDependencies": {
